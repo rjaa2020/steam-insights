@@ -2,7 +2,7 @@
 This repository contains CSV files exported from a SQL database of video game data, covering categories, descriptions, game details, genres, promotional materials, reviews, SteamSpy insights, and tags.
 
 ## File Description
-Each CSV file corresponds to a table from the Steam catalog dataset. You can download and import these CSV files into any database or use them directly for data analysis.
+Each CSV file corresponds to a table from the Steam catalog dataset. The files have been compressed into ZIP archives for easier download. You can unzip them and import these CSV files into any database or use them directly for data analysis.
 
 - **games.csv**: Main table containing details about the games, such as title, release date, and other metadata.
 - **genres.csv**: Genres assigned to each game.
